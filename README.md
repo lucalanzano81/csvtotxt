@@ -1,6 +1,6 @@
 # Email list converter (CSV to TXT)
 
-This is a script written in Node.js that allows you to convert an email list from CSV to TXT.
+This is a script written in Node.js that allows you to convert an email list from CSV to TXT removing duplicates.
  
 ###Usage:
 
